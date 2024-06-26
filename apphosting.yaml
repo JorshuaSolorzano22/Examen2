@@ -1,14 +1,10 @@
 env:
   # Get these values from the Firebase console
-  - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: TODO
+  apiKey: "AIzaSyBcXPkSCWE08xEDbcPzmUmWkZHZ4gn1UQQ",
+  authDomain: "examen2-6e956.firebaseapp.com",
+  projectId: "examen2-6e956",
+  storageBucket: "examen2-6e956.appspot.com",
+  messagingSenderId: "787947229737",
+  appId: "1:787947229737:web:cd72c89b221ec851378238",
+  measurementId: "G-ZHCVCXS0MW"
+
